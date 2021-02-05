@@ -13,3 +13,5 @@ Compare the average salary of female versus male employees in the entire company
 
 Task 4:<br>
 Create an SQL stored procedure that will allow you to obtain the average male and female salary per department within a certain salary range. Let this range be defined by two values the user can insert when calling the procedure. Finally, visualize the obtained result-set in Tableau as a double bar chart. 
+
+<img src = 'dashboard.jpg'>
