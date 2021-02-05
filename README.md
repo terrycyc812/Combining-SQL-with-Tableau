@@ -2,6 +2,9 @@
  
 Course information: [here](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
 
+Objectives: <br>
+To fetch the data from the database (employees modified) and visualize the data using Tableau. 
+
 Task 1: <br>
 Create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990. 
 
