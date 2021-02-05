@@ -1,4 +1,4 @@
-# Combining SQL with tableau (A final exercise from Udemy organized by 365 Careers)
+# Combining SQL with tableau (A final course exercise from Udemy organized by 365 Careers)
  
 Course reference: [here](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
 
