@@ -1,6 +1,6 @@
-# Udemy_MySQL_final_exercise
+# Combining SQL with tableau (A final exercise from Udemy organized by 365 Careers)
  
-Course information: [here](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
+Course reference: [here](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
 
 Objectives: <br>
 To fetch the data from the database (employees modified) and visualize the data using Tableau. 
